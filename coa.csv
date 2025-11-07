@@ -1,0 +1,78 @@
+cuenta;grupo1;grupo2;descripcion
+40000_0;Ventas;Ventas;Ventas_Netas
+40100_2;Ventas;Ventas;Ventas por Fletes
+42000_0;Ventas;Ventas;Ventas_Misceláneas
+42000_4;Ventas;Ventas;Otros Ajustes de Ventas
+45100;Ventas;Ventas;Ventas fuera de la Región
+50100_1;COGS;Materiales;Costo Materiales Acero
+50100_5;COGS;Materiales;Costo Materiales Otros
+50100_11;COGS;Materiales;Costo_Materiales
+51100_0;COGS;Salarios;Salarios_Produccion
+51100_4;COGS;Salarios;HE_Produccion
+51100_6;COGS;Salarios;Bonos Produccion
+51100_7;COGS;Salarios;Bonos Produccion Colectivo
+51200_1;COGS;Salarios;Beneficios_Produccion
+51200_10;COGS;Salarios;Otros Beneficios Produccion
+52100_0;Transporte;Transporte;Costo de Transporte
+55100_1;VariableOH;Utilities;Gas
+55100_3;VariableOH;Utilities;Electricidad
+55100_4;VariableOH;Utilities;Agua
+55200_1;VariableOH;Salarios;Salarios_Mantencion
+55200_6;VariableOH;Salarios;HE_Mantencion
+55210_1;VariableOH;Salarios;Vacaciones_Mantencion
+55210_10;VariableOH;Salarios;Otros eneficios Mantencion
+55300_1;VariableOH;Mantencion;Mantencion_Materiales
+55350_0;VariableOH;Mantencion;Mantencion_Consumos
+55350_1;VariableOH;Mantencion;Mantencion_Otros
+55900_0;VariableOH;Otros_CV;Otros_Costos_Variables
+55900_1;VariableOH;Otros_CV;Costo_Desechos
+57100_0;FixedOH;Salarios;Salarios_Supervision
+57100_3;FixedOH;Salarios;Vacaciones_Supervision
+57100_7;FixedOH;Salarios;HE_Supervision
+57150_0;FixedOH;Impuestos;Otros Impuestos
+57150_1;FixedOH;Impuestos;Contribuciones
+57110_0;FixedOH;Salarios;Beneficios_Planta
+57110_6;FixedOH;Salarios;Otros Beneficios Planta
+57200_0;FixedOH;Seguros;Seguros
+57300_0;FixedOH;Arriendos;Arriendos
+57400;FixedOH;Depreciacion;Depreciaciones
+57900_1;FixedOH;T&E;Consumos_Planta
+57900_4;FixedOH;Otros_Planta;Otros_Gastos_Planta
+57900_9;FixedOH;Seguridad;Seguridad
+57900_13;FixedOH;T&E;Gasto_Vehiculo_Planta
+57900_16;FixedOH;T&E;Gasto_Viajes_Planta
+60100_0;SGA;Salarios;Salarios_Administracion
+60100_2;SGA;Salarios;Bonos_Admistracion
+60100_7;SGA;Salarios;HE_Administracion
+60100_8;SGA;Salarios;Incentivos
+60101_2;SGA;Salarios;Vacaciones  Administracion
+60101_11;SGA;Salarios;Otros Beneficios Administracion
+60105_0;SGA;T&E;Personnel costs
+60110;SGA;IT;IT_Terceros
+60120_0;SGA;Otros_SGA;Comisiones
+60130_1;SGA;T&E;Gasto_Viajes_Adm
+60130_3;SGA;T&E;Gasto_Vehiculo_Adm
+60200_0;SGA;Gastos_Oficina;Seguros
+60310_1;SGA;Serv_terceros;Abogados
+60310_2;SGA;Serv_terceros;Contadores
+60310_3;SGA;Serv_terceros;Consultoria
+60310_4;SGA;Serv_terceros;Reclutamiento
+60400;SGA;Depreciacion;Depreciacion
+60450;SGA;Depreciacion;Amortizacion
+60600_0;SGA;Otros_SGA;Incobrables
+60700;SGA;Otros_SGA;Publicidad
+60800;SGA;Otros_SGA;Gastos_Bancarios
+60850_0;SGA;Otros_SGA;Gastos a Refacturar
+60900_0;SGA;Otros_SGA;Otros_Gastos
+60900_1;SGA;IT;Comunicaciones
+60900_2;SGA;Gastos_Oficina;Suscripciones
+60900_3;SGA;Gastos_Oficina;Reparaciones_Oficina
+60900_4;SGA;Gastos_Oficina;Consumos_Oficina
+60900_5;SGA;Gastos_Oficina;Correo
+60900_6;SGA;Gastos_Oficina;Papeleria
+60900_9;SGA;Serv_terceros;Entrenamiento
+60900_13;SGA;IT;IT_Mantencion
+60900_14;SGA;Otros_SGA;FX
+90250_0;STAT;Unids_Venta;Unids_Venta
+90260_1;STAT;Unids_Prod;Unids_Prod
+90110;STAT;FTE;FTE
