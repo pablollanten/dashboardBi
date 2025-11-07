@@ -11,7 +11,7 @@ data=pd.read_csv('https://raw.githubusercontent.com/pablollanten/dashboardBi/ref
                  sep=';')
 
 # Plan de cuentas
-coa=pd.read_csv('coa.csv',
+coa=pd.read_csv('https://raw.githubusercontent.com/pablollanten/dashboardBi/refs/heads/master/coa.csv',
                 sep=';')
 
 # Chequeando nulos
@@ -383,4 +383,5 @@ with col2:
             markers=True
             )
         st.plotly_chart(fig, use_container_width=True)
+
 
