@@ -7,7 +7,7 @@ import plotly.express as px
 
 # LECTURA ARCHIVOS =======================================================================
 # Datos
-data=pd.read_csv('actualBudget.csv',
+data=pd.read_csv('https://raw.githubusercontent.com/pablollanten/dashboardBi/refs/heads/master/actualBudget.csv',
                  sep=';')
 
 # Plan de cuentas
@@ -383,3 +383,4 @@ with col2:
             markers=True
             )
         st.plotly_chart(fig, use_container_width=True)
+
