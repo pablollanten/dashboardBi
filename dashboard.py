@@ -143,7 +143,7 @@ st.set_page_config(
 )
 
 # Titulo del dashboard:
-st.markdown('<h1 class="main header"> Dashboard de prueba para Greif </h1>', 
+st.markdown('<h1 class="main header">\U0001F6E2 Dashboard de prueba para Greif </h1>', 
             unsafe_allow_html=True)
 
 # Columnas filtro del dashboard en cabeceras:
@@ -383,6 +383,7 @@ with col2:
             markers=True
             )
         st.plotly_chart(fig, use_container_width=True)
+
 
 
 
