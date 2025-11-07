@@ -137,7 +137,7 @@ contribucion =contribucion.drop(['M Unids'], axis=1)
 # CONFIGURACION DE LA PAGINA =============================================================================
 st.set_page_config(
     page_title="Greif", # Titulo de la pestaña
-    page_icon="\U0001F600", # favicon
+    page_icon="\U0001F6E2", # favicon barril de petroleo
     layout='wide',
     initial_sidebar_state='expanded'
 )
@@ -383,5 +383,6 @@ with col2:
             markers=True
             )
         st.plotly_chart(fig, use_container_width=True)
+
 
 
