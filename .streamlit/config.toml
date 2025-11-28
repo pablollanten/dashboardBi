@@ -1,12 +1,6 @@
-# Contenido del archivo: .streamlit/config.toml
 [theme]
-# Asegura el tema base como oscuro para usar los colores de manera efectiva
-base="dark" 
-# Fondo Principal: Azul oscuro profundo (casi negro)
-backgroundColor="#1A202C" 
-# Fondo Secundario: Gris azulado más claro (para barra lateral y widgets)
-secondaryBackgroundColor="#2D3748" 
-# Color Primario: Azul profesional (para botones y resaltados)
-primaryColor="#3182CE" 
-# Color del Texto: Blanco suave
-textColor="#E2E8F0"
+base="light" 
+backgroundColor="#F7FAFC"          # Blanco suave
+secondaryBackgroundColor="#E4E7EB" # Gris muy claro para la barra lateral
+primaryColor="#3182CE"             # Mismo azul profesional
+textColor="#2D3748"                # Texto gris oscuro
