@@ -1,6 +1,12 @@
+# .streamlit/config.toml
 [theme]
+# Base: Tema Claro (Light)
 base="light" 
-backgroundColor="#F7FAFC"          # Blanco suave
-secondaryBackgroundColor="#E4E7EB" # Gris muy claro para la barra lateral
-primaryColor="#3182CE"             # Mismo azul profesional
-textColor="#2D3748"                # Texto gris oscuro
+# Fondo Principal: Blanco puro
+backgroundColor="#FFFFFF" 
+# Fondo Secundario: Gris muy claro para la barra lateral (Filtros)
+secondaryBackgroundColor="#F0F0F0" 
+# Color Primario: El Verde Corporativo de Greif
+primaryColor="#005C3B" 
+# Color del Texto: Gris carbón oscuro para alta legibilidad
+textColor="#333333"
